@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @FreshDevsCode
+- 👀 I’m not much interested in coding, but i do love the process of understanding coding...
+- 🌱 I’m currently learning Programming languages such as HTML, CSS, Javascript, SQL, Java, Python ...
+- 💞️ I’m looking to collaborate on as an Friendly person...
+
+<!---
+FreshDevsCode/FreshDevsCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
